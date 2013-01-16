@@ -67,13 +67,8 @@ http://blog.csdn.net/logan676/article/category/1132516
 
 http://blog.csdn.net/logan676/article/category/1137504
 
-
-# 我的博客
-http://blog.csdn.net/logan676
+# 联系我
 
 http://www.diandian.com/dianlog/logan676
 
-http://hi.baidu.com/new/logan676
-
-# 联系我
 QQ群：232482105
