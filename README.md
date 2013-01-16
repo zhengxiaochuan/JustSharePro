@@ -1,6 +1,4 @@
-JustSharePro
-============
-前言
+# 前言
 微博又叫微博客 (micro blog)，是微型博客的简称，基于web2.0技术的即时信息发布系统。与传统博客相比，以“短、灵、快”为特点。140字左右的文字更新信息，并实现即时分享，微博只言片语“语录体”的即时表述更加符合现代人的生活节奏和习惯；而新技术的运用则使得用户（作者）也更加容易对访问者的留言进行回复，从而形成良好的互动关系。
 
 微博的出现，让每一个“小我”都有了展示自己的舞台，引领了大量用户原创内容的爆发式增长。微博上，每个人都形成了一个“自媒体”，每个人都是信息的生产者和消费者。特别是在接二连三的突发和热点事件中，尤其是当下微博反腐中，微博的表现让人眼前一亮。
@@ -11,7 +9,7 @@ JustSharePro
 
 由于项目中引用了向后兼容的jar包，所以支持低版本的系统，但是在IDE中阅读或修改源码时，需要的4.0或者以上的SDK版本
 
-功能介绍
+# 功能介绍
 1.开发一个可在Android手机上使用的微博客户端。
 
 2.该客户端同新浪微博官方客户端那样，可以本地登录并查看微博。
@@ -26,7 +24,7 @@ JustSharePro
 
 7.拍照上传，能够进行图片的管理和维护。
 
-使用到的技术
+# 使用到的技术
 1.授权认证：Oauth2.0认证流程
 
 2.服务器访问操作流程
@@ -49,7 +47,12 @@ JustSharePro
 
 11.编码规范
 
-文档地址
+![欢迎界面](http://static.oschina.net/uploads/space/2013/0116/141244_QnJd_729412.png)
+![账号管理](http://static.oschina.net/uploads/space/2013/0116/140919_3qAi_729412.png)
+![新浪微博授权页](http://static.oschina.net/uploads/space/2013/0116/141331_Mxub_729412.png)
+![腾讯微博授权页](http://static.oschina.net/uploads/space/2013/0116/141413_dOo8_729412.png)
+
+# 文档地址
 1. 开源中国
 
 http://www.oschina.net/code/snippet_729412_17351
@@ -62,14 +65,12 @@ http://blog.csdn.net/logan676/article/category/1132516
 
 http://blog.csdn.net/logan676/article/category/1137504
 
-我的博客
+# 我的博客
 http://blog.csdn.net/logan676
 
 http://www.diandian.com/dianlog/logan676
 
 http://hi.baidu.com/new/logan676
 
-联系我
-QQ：676395711
-
-E-mail:logan676@163.com
+# 联系我
+QQ群：232482105
