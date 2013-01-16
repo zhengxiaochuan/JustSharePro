@@ -53,18 +53,20 @@
 ![腾讯微博授权页](http://static.oschina.net/uploads/space/2013/0116/141413_dOo8_729412.png)
 ![微博列表](http://static.oschina.net/uploads/space/2013/0116/141501_ZSsz_729412.png)
 
+#项目主页
+
+https://code.google.com/p/weibo4pansoft/
+
 # 文档地址
-1. 开源中国
 
-http://www.oschina.net/code/snippet_729412_17351
-
-2.Sina Weibo:
+1.新浪微博文档:
 
 http://blog.csdn.net/logan676/article/category/1132516
 
-3.Tencent Weibo:
+2.腾讯微博文档:
 
 http://blog.csdn.net/logan676/article/category/1137504
+
 
 # 我的博客
 http://blog.csdn.net/logan676
