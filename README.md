@@ -51,6 +51,7 @@
 ![账号管理](http://static.oschina.net/uploads/space/2013/0116/140919_3qAi_729412.png)
 ![新浪微博授权页](http://static.oschina.net/uploads/space/2013/0116/141331_Mxub_729412.png)
 ![腾讯微博授权页](http://static.oschina.net/uploads/space/2013/0116/141413_dOo8_729412.png)
+![微博列表](http://static.oschina.net/uploads/space/2013/0116/141501_ZSsz_729412.png)
 
 # 文档地址
 1. 开源中国
